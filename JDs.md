@@ -1,7 +1,7 @@
 # Job Descriptions
 
 ## Human Resources
-Internal Sources
+### Internal Sources
 
 1) Title: HUMAN RESOURCES ASSISTANT
 
@@ -167,9 +167,9 @@ JUDGEMENT/DECISION MAKING: Identifies the key issues in a complex situation, and
 Advanced university degree (Master's degree or equivalent) in human resources management, business or public administration, law, social science, education or related field. A first level university degree in combination with qualifying experience may be accepted in lieu of the advanced university degree.
 
 A minimum of seven (7) years of progressively responsible experience in human resources management, administrative services, management or related area is required.
-_x000D_Experience in recruitment and entitlement administration using ERP system such as Inspira and Umoja in the United Nations is required.
-_x000D_Extensive experience in defending administrative decisions through a formal dispute resolution mechanism such as management evaluation in the United Nations is highly desirable.
-_x000D_Experience in human resources policies and administration in the United Nations and other comparable organizations is desirable.
+Experience in recruitment and entitlement administration using ERP system such as Inspira and Umoja in the United Nations is required.
+Extensive experience in defending administrative decisions through a formal dispute resolution mechanism such as management evaluation in the United Nations is highly desirable.
+Experience in human resources policies and administration in the United Nations and other comparable organizations is desirable.
 
 5) Title: HUMAN RESOURCES ASSISTANT
 
@@ -302,7 +302,7 @@ Experience in administration of Travel and Shipping is required.
 Experience in international or multinational public institution is desirable.
 
 ------------------------------------------------------------------------------
-External Sources
+### External Sources
 
 1) Title: HR Assistant - Employee Relations
 
@@ -326,9 +326,9 @@ Closing Date: Aug 30th, 2024
 
 Monthly salary (before tax and social security insurance deduction) will be between RMB 12,000 and 17,000
 
-The Asian Infrastructure Investment Bank (AIIB) is a multilateral development bank whose mission is Financing Infrastructure for Tomorrow in Asia and beyond‚Äîinfrastructure with sustainability at its core. We began operations in Beijing in 2016 and have since grown to 109 approved members worldwide. We are capitalized at USD100 billion and AAA-rated by the major international credit rating agencies. Collaborating with partners, AIIB meets clients‚Äô needs by unlocking new capital and investing in infrastructure that is green, technology-enabled and promotes regional connectivity.
+The Asian Infrastructure Investment Bank (AIIB) is a multilateral development bank whose mission is Financing Infrastructure for Tomorrow in Asia and beyond‚Äîinfrastructure with sustainability at its core. We began operations in Beijing in 2016 and have since grown to 109 approved members worldwide. We are capitalized at USD100 billion and AAA-rated by the major international credit rating agencies. Collaborating with partners, AIIB meets clients‚ needs by unlocking new capital and investing in infrastructure that is green, technology-enabled and promotes regional connectivity.
 
-Human Resources Department (HRD) is responsible for the development and implementation of AIIB‚Äôs human resource strategies, policies, and programs to attract, hire, develop and retain talents. HRD also provides advice on Human Resources and Corporate Culture related issues to ensure that all relevant policies and actions are aligned with, and supporting the realization of AIIB‚Äôs mission, vision, corporate culture, corporate strategy and business goals, specifically in the areas of strategic staffing, talent management, change management, organizational and performance management, succession planning, training and development, compensation and benefits, and recognition and rewards. The HRD strives to be a high performing business enabler, acting as a trusted partner to deliver strategic, proactive and client-oriented solutions. The HRD composed of the Centers of Excellence (COEs) and the HR Business Partners (HRBPs). The COEs houses specialized HR experts providing a focused approach and best industry practices towards key areas, while HRBPs are the primary HR contact for business units.
+Human Resources Department (HRD) is responsible for the development and implementation of AIIB‚s human resource strategies, policies, and programs to attract, hire, develop and retain talents. HRD also provides advice on Human Resources and Corporate Culture related issues to ensure that all relevant policies and actions are aligned with, and supporting the realization of AIIB‚s mission, vision, corporate culture, corporate strategy and business goals, specifically in the areas of strategic staffing, talent management, change management, organizational and performance management, succession planning, training and development, compensation and benefits, and recognition and rewards. The HRD strives to be a high performing business enabler, acting as a trusted partner to deliver strategic, proactive and client-oriented solutions. The HRD composed of the Centers of Excellence (COEs) and the HR Business Partners (HRBPs). The COEs houses specialized HR experts providing a focused approach and best industry practices towards key areas, while HRBPs are the primary HR contact for business units.
 
 The Employee Relations (ER) team will help to maintain positive employee relations and support the promotion of a productive, harmonious, respectful and inclusive work environment within AIIB. The ER team is looking for an HR Assistant who will provide the full spectrum of daily operations and administrative support to the team.
 
@@ -389,13 +389,13 @@ Onboarding Operations
 Adding new hires to HR systems ensuring employee personal details and contractual details are entered correctly and handling SCR queries.
 Handling SCR queries
 Employee Lifecycle
-Signposting employees to SG‚Äôs policies and Self-service HR System
+Signposting employees to SG‚s policies and Self-service HR System
 Updating line manager changes on HR Systems
 Handling general enquiry tickets
 People Reporting and Monitoring
 Run HR system reports checking data accuracy and update the system when required.
 Change and Continuous Improvement
-Support the People Experience Operations Teams‚Äô commitment to continuous improvement by keeping up to date with HR policy and procedures.
+Support the People Experience Operations Teams‚ commitment to continuous improvement by keeping up to date with HR policy and procedures.
 ABOUT YOU
 
 Bachelor's degree in Human Resources, Business Administration, or a related field preferred.
@@ -420,7 +420,7 @@ We are looking for a diligent Human Resources (HR) Assistant to join our team re
 
 Responsibilities
 
- Input requisitions into the company‚Äôs online recruitment system (ORC)
+ Input requisitions into the company‚s online recruitment system (ORC)
  Update and manage job postings on various platforms, including Indeed
  Provide assistance in employee transfers and ensure they are carried out efficiently
  Maintain and manage HR-related documentation with high levels of accuracy
@@ -445,7 +445,7 @@ Requirements
  Detail-oriented and organized to manage employee records and databases
  Ability to maintain confidentiality and handle sensitive information with discretion
  Self-motivated and proactive to take initiatives and solve problems independently
- Bachelor‚Äôs degree in Human Resources, Business Administration, or related field is preferred
+ Bachelor‚s degree in Human Resources, Business Administration, or related field is preferred
  Previous experience in an HR role would be an advantage.
 
 5) Title: HR Assistant (Temporary)
@@ -475,10 +475,10 @@ Associates degree in Human Resources or related field
 2+ years of experience as a HR Assistant or similar role 
 Proficiency in MS Office, specifically Excel
 
-
+---------------------------------------------
 ## Psychologist
 
-Internal Sources
+### Internal Sources
 
 1) Title: Psychologist
 
@@ -512,10 +512,10 @@ Teamwork:  Works collaboratively with colleagues to achieve organizational goals
 Advanced university degree (Master's degree or equivalent degree) in clinical or forensic psychology or a medical doctorate with certificate of specialization or completion of residency in psychiatry is required.
 
 A minimum of five years of work experience direct counseling vulnerable groups, such as survivors of sexual violence, traumatized children and survivors of torture preferably within criminal justice system structures is required.
-_x000D_
-_x000D_Experience working with either cognitive-behavioural therapy (CBT) OR trauma focused interventions including EMDR and Narrative Exposure Therapy (NET), and experience with planning, executing and evaluating capacity building MHPSS (training, workshops) is required.
-_x000D_
-_x000D_Field experience  with working with victims in conflict-affected settings is desirable.
+
+Experience working with either cognitive-behavioural therapy (CBT) OR trauma focused interventions including EMDR and Narrative Exposure Therapy (NET), and experience with planning, executing and evaluating capacity building MHPSS (training, workshops) is required.
+
+Field experience  with working with victims in conflict-affected settings is desirable.
 
 2) Title: PSYCHOLOGIST
 
@@ -536,10 +536,10 @@ Within delegated authority and under the technical supervision of a senior couns
 Advanced university degree (Master's degree or equivalent) in Mental Health Counselling, Clinical Psychology or Psychiatry (nursing or medical), Clinical Social Work or related field. A first level university degree with a relevant combination of academic qualifications and experience may be accepted in lieu of the advanced university degree.
 
 A minimum of five years of experience in the delivery of mental health counselling in a multi-cultural, international setting, including crisis intervention is required.
-_x000D_
-_x000D_Experience in training development and delivery of training in psycho-educational topics is required.
-_x000D_
-_x000D_Experience in assessment and mitigation of workplace psycho-social risks is desirable.
+
+Experience in training development and delivery of training in psycho-educational topics is required.
+
+Experience in assessment and mitigation of workplace psycho-social risks is desirable.
 
 3) Title: Psychologist
 
@@ -579,10 +579,10 @@ Teamwork:  Works collaboratively with colleagues to achieve organizational goals
 Advanced university degree (Master's degree or equivalent degree) in clinical or forensic psychology or a medical doctorate with certificate of specialization or completion of residency in psychiatry is required.
 
 A minimum of five years of work experience direct counseling vulnerable groups, such as survivors of sexual violence, traumatized children and survivors of torture preferably within criminal justice system structures is required.
-_x000D_
-_x000D_Experience working with either cognitive-behavioural therapy (CBT) OR trauma focused interventions including EMDR and Narrative Exposure Therapy (NET), and experience with planning, executing and evaluating capacity building MHPSS (training, workshops) is essential.
-_x000D_
-_x000D_Field experience in the Middle East and North Africa, or experience with working with victims in conflict-affected settings is desirable.
+
+Experience working with either cognitive-behavioural therapy (CBT) OR trauma focused interventions including EMDR and Narrative Exposure Therapy (NET), and experience with planning, executing and evaluating capacity building MHPSS (training, workshops) is essential.
+
+Field experience in the Middle East and North Africa, or experience with working with victims in conflict-affected settings is desirable.
 
 4) Title: Psychologist
 
@@ -608,10 +608,10 @@ Within delegated authority, the Clinical Psychologist will be responsible for th
    Qualifying years of experience are calculated after the receipt of an accredited advanced level degree recognised by the United Nations.
 
  A minimum of five (5) years of experience in stress counselling, clinical psychology, psychiatry, or related field, at a national level with cross border experience is required.
-_x000D_
-_x000D_ International experience is desirable.
-_x000D_
-_x000D_ Experience in crisis coordination and emergency response is desirable.
+
+ International experience is desirable.
+
+ Experience in crisis coordination and emergency response is desirable.
 
 5) Title: Psychologist
 
@@ -653,15 +653,15 @@ Planning& Organizing:  Develops clear goals that are consistent with agreed stra
 An advanced university degree (Master's degree or equivalent) in clinical or forensic psychology or a medical doctorate with certificate of specialization or completion of residency in psychiatry is required. A first-level university degree (Bachelor's degree or equivalent) with two additional years of relevant work experience may be accepted in lieu of the advanced university degree.
 
 A minimum of seven years of progressively responsible experience in direct counseling vulnerable groups, such as survivors of sexual violence, traumatized children and survivors of torture preferably within criminal justice system structures is required.
-_x000D_
-_x000D_Experience in the Middle East and North Africa is desirable.
-_x000D_
-_x000D_Supervisory experience in the administration, implementation and management of a victim or witness support programme is desirable.
-_x000D_
-_x000D_Field experience or experience with working with victims in conflict-affected settings is desirable.
+
+Experience in the Middle East and North Africa is desirable.
+
+Supervisory experience in the administration, implementation and management of a victim or witness support programme is desirable.
+
+Field experience or experience with working with victims in conflict-affected settings is desirable.
 
 ------------------------------------------------------------------------------
-External Sources
+### External Sources
 
 1) Title: Assistant Psychologist
 
@@ -681,7 +681,7 @@ Educational Qualification: Masters in Psychology (I/O Psychology preferred)
 
 Role Overview
 
-‚óè Core Work Areas:
+ Core Work Areas:
 1. Research and Development
 2. Psychometrics
 3. Psychological Research
@@ -690,53 +690,53 @@ Role Overview
 
 Requirements:
 
-‚óè Education: Master‚Äôs degree in Psychology (Above 70%)
+ Education: Master‚s degree in Psychology (Above 70%)
  (Industrial-Organizational/Counseling/Clinical)
 
-‚óè Keen interest in Psychological Research.
-‚óè Educational Cutoff: 70% - 10th and 12th (Mathematics in class 12th preferable)
-‚óè Experience: Fresher
-‚óè Knowledge of Psychological Concepts
-‚óè Knowledge of Psychometrics
-‚óè Knowledge of Psychological Research
-‚óè Knowledge of Industry Trends (Preferable)
-‚óè Knowledge of Statistical Analysis Procedures
-‚óè Software knowledge: MS Office, SPSS
-‚óè Understanding of Market Trends (Preferable)
-‚óè English Language Proficiency
+ Keen interest in Psychological Research.
+ Educational Cutoff: 70% - 10th and 12th (Mathematics in class 12th preferable)
+ Experience: Fresher
+ Knowledge of Psychological Concepts
+ Knowledge of Psychometrics
+ Knowledge of Psychological Research
+ Knowledge of Industry Trends (Preferable)
+ Knowledge of Statistical Analysis Procedures
+ Software knowledge: MS Office, SPSS
+ Understanding of Market Trends (Preferable)
+ English Language Proficiency
 
 
 Functional/Behavioural Competencies:
 
-‚óè Interpersonal Skills
-‚óè Analytical Skills
-‚óè Positive Work Attitude
-‚óè Honesty and Sincerity
-‚óè Openness to Learn New Things
-‚óè IT and Basic Professional Literacy
-‚óè English Speaking and Writing Proficiency
+ Interpersonal Skills
+ Analytical Skills
+ Positive Work Attitude
+ Honesty and Sincerity
+ Openness to Learn New Things
+ IT and Basic Professional Literacy
+ English Speaking and Writing Proficiency
 
 
 Key Responsibilities:
 
-‚óè Psychometric Research: Undertake Primary and Secondary Research for developing new 
+ Psychometric Research: Undertake Primary and Secondary Research for developing new 
 
 Constructs and Psychometric Tools as per the requirement.
-‚óè Item Writing: Writing items for the development of constructs and tools as per the 
+ Item Writing: Writing items for the development of constructs and tools as per the 
 
 requirements.
-‚óè Data Collection and Analysis: Obtaining data from different sources and conducting data
+ Data Collection and Analysis: Obtaining data from different sources and conducting data
 analysis to establish the Reliability and Validity of the developed Psychometric Tools. 
 
-‚óè Content Development: Researching and Developing the content for Training and 
+ Content Development: Researching and Developing the content for Training and 
 
 Development Programs for Internal and External purposes.
-‚óè Client Communication: Responsible for Client Communication, Requirement 
+ Client Communication: Responsible for Client Communication, Requirement 
 
 Gathering and Account Management for clients.
-‚óè Conducting Need Analysis: Responsible for being the Subject Matter Expert for customizing the
+ Conducting Need Analysis: Responsible for being the Subject Matter Expert for customizing the
 Assessment Frameworks based on the client requirements.
-‚óè Market Research: Conducting Market Research to stay updated and understand the 
+ Market Research: Conducting Market Research to stay updated and understand the 
 
 Psychometric Market Trends.
 
@@ -831,7 +831,7 @@ Barnet is a borough with much to be proud of. Our excellent schools, vibrant tow
 
 About The Role
 
-An exciting career opportunity has arisen to join us at the Barnet Integrated Clinical Service (BICS). BICS is a mental health and wellbeing service for children, young people and their families who live in the London Borough of Barnet. BICS are based within the local authority and provides evidence-based individual, group, and family therapy to children, young people and their families (CYPF). It also shares online podcasts and video workshops, alongside live workshops and train the trainer session on mental health and wellbeing. BICS has collaborative and effective working relationships with colleagues in Early Help, Children‚Äôs Social Care, NHS CAMHS, schools and other agencies.
+An exciting career opportunity has arisen to join us at the Barnet Integrated Clinical Service (BICS). BICS is a mental health and wellbeing service for children, young people and their families who live in the London Borough of Barnet. BICS are based within the local authority and provides evidence-based individual, group, and family therapy to children, young people and their families (CYPF). It also shares online podcasts and video workshops, alongside live workshops and train the trainer session on mental health and wellbeing. BICS has collaborative and effective working relationships with colleagues in Early Help, Children‚s Social Care, NHS CAMHS, schools and other agencies.
 
 As an Assistant Psychologist you will play a key role in supporting the Head of Service, Assistant Head of Service and Clinical Managers with collecting, analysing and disseminating performance data to ensure the effectiveness and efficiency of the service. Under supervision, you will also support delivery of evidence-based early interventions for children and young people.
 
@@ -840,7 +840,7 @@ Please click here to download the Job description for this role.
 5) Title: Psychologist
 
 About the job
-Sonder is an active care technology company that helps organisations improve the wellbeing of their people so they perform at their best. Our mobile app provides immediate, 24/7 support from a team of safety, medical, and mental health professionals - plus onsite help for time-sensitive scenarios. Accredited by the Australian Council on Healthcare Standards (ACHS), our platform gives leaders the insights they need to act on tomorrow‚Äôs wellbeing challenges today.
+Sonder is an active care technology company that helps organisations improve the wellbeing of their people so they perform at their best. Our mobile app provides immediate, 24/7 support from a team of safety, medical, and mental health professionals - plus onsite help for time-sensitive scenarios. Accredited by the Australian Council on Healthcare Standards (ACHS), our platform gives leaders the insights they need to act on tomorrow‚s wellbeing challenges today.
 
 We completed a highly successful Series B capital raise in August 2022. With operations in Australia, New Zealand and the UK, we are at an exciting time of growth and we invite you to join us on our mission to help organisations around the world create a culture of Active Care.
 
@@ -848,19 +848,20 @@ We completed a highly successful Series B capital raise in August 2022. With ope
 300 + team members, as well as an on-the-ground responder network 
 Trusted by major corporations, education providers, and government agencies
 
-Join Sonder‚Äôs innovative movement to provide global support through the right care at the right time and know you are contributing to empowering people to be at their best
+Join Sonder‚s innovative movement to provide global support through the right care at the right time and know you are contributing to empowering people to be at their best
 
 About The Role
 
-Reporting into the Practice Manager, you‚Äôll be providing short term, solution focussed intervention to Sonder Members through a virtual setting and assisting members at various points in their mental health journey and across a variety of presentations including anxiety, mood disorders, self harm, suicidal ideation, relationship issues, distress regarding workplace or university demands, interpersonal conflict, trauma, sexuality and gender identity.
+Reporting into the Practice Manager, you‚ll be providing short term, solution focussed intervention to Sonder Members through a virtual setting and assisting members at various points in their mental health journey and across a variety of presentations including anxiety, mood disorders, self harm, suicidal ideation, relationship issues, distress regarding workplace or university demands, interpersonal conflict, trauma, sexuality and gender identity.
 
-You‚Äôll work with a multidisciplinary team including Registered Psychologists, Counsellors, Social Workers, Registered Nurses, on-call GPs and support coordinators, supported by a governance and leadership team with experience in acute care, community services and organisational well-being.
+You‚ll work with a multidisciplinary team including Registered Psychologists, Counsellors, Social Workers, Registered Nurses, on-call GPs and support coordinators, supported by a governance and leadership team with experience in acute care, community services and organisational well-being.
 
 Ideally the role is a permanent,full time role (38 hours per week), however we would consider part-time hours for the right applicants (Minimum 3 days per week) with a salary package including all employment benefits and in-house authorised supervision.
 
+------------------------------
 ## Administration
 
-Internal Sources
+### Internal Sources
 
 1) Title: Administrative Assistant
 
@@ -936,16 +937,16 @@ Within delegated authority, the Human Resources Assistant will be responsible fo
 High school diploma or equivalent is required.
 
 At least seven (7) years of progressively responsible experience in human resources management, administrative services or related area is required. The minimum years of relevant experience is reduced to 5 for candidates who possess a first-level university degree or higher.
-_x000D_
-_x000D_At least three (3) years of experience in the application of rules and regulations covering entitlements, benefits and contract administration within the United Nations Common System or similar international organization is required.
-_x000D_
-_x000D_Administration of staff contracts, benefits and entitlements using SAP or similar ERP tool within the UN Secretariat, UN Common System or other international organization is required.
-_x000D_
-_x000D_Experience with recruitment platforms, such as Inspira or similar platform(s) is desirable.
-_x000D_
-_x000D_HR experience within an Executive Office or similar setting is desirable.
-_x000D_
-_x000D_Experience in the administration of non-staff capacity in the UN or similar international organization is desirable.
+
+At least three (3) years of experience in the application of rules and regulations covering entitlements, benefits and contract administration within the United Nations Common System or similar international organization is required.
+
+Administration of staff contracts, benefits and entitlements using SAP or similar ERP tool within the UN Secretariat, UN Common System or other international organization is required.
+
+Experience with recruitment platforms, such as Inspira or similar platform(s) is desirable.
+
+HR experience within an Executive Office or similar setting is desirable.
+
+Experience in the administration of non-staff capacity in the UN or similar international organization is desirable.
 
 3) Title: ADMINISTRATIVE ASSISTANT
 
@@ -976,56 +977,56 @@ Within delegated authority, the Human Resources Assistant will be responsible fo
 High school diploma or equivalent is required.
 
 A minimum of seven years of progressively responsible experience in human resources management, administrative services or related area is required. The minimum years of relevant experience is reduced to five years for candidates who possess a first-level university degree or higher.
-_x000D_
-_x000D_Experience in the administration of benefits and entitlements, contracts and travel, in the role of HR Assistant in the UN system over the last two years is required.
-_x000D_
-_x000D_Experience in the administration of staff selection processes and offer management in the role of HR Assistant in the UN system over the last two years is required.
-_x000D_
-_x000D_Experience in approving HR transactions in UMOJA in the role of HR Partner is required.
-_x000D_
-_x000D_Experience in using HR management tool such as Nova is desired.
-_x000D_
-_x000D_Experience in an Executive Office or similar front office environment in the UN system in the role of HR Assistant is desired.
+
+Experience in the administration of benefits and entitlements, contracts and travel, in the role of HR Assistant in the UN system over the last two years is required.
+
+Experience in the administration of staff selection processes and offer management in the role of HR Assistant in the UN system over the last two years is required.
+
+Experience in approving HR transactions in UMOJA in the role of HR Partner is required.
+
+Experience in using HR management tool such as Nova is desired.
+
+Experience in an Executive Office or similar front office environment in the UN system in the role of HR Assistant is desired.
 
 ------------------------------------------------------------------------------
-External Sources
+### External Sources
 
 1) Title: Administrative Assistant
 
 About the job
-ESMA is organising a selection procedure for the post of Administrative Assistant to constitute a reserve list of suitable candidates for potential staffing needs linked with current and future workstreams. We are looking for candidates with different profiles / backgrounds, and especially in: ‚Ä¢ Personal assistance or secretarial support (meetings organisation, support to the manager and team/unit);
-‚Ä¢ HR (recruitment / learning & development / administration);
-‚Ä¢ Communications (external/internal communications / website management / media & social media monitoring and reporting / visual content creation / experience with Canva, knowledge of Adobe Photoshop, Illustrator and InDesign is an advantage);
-‚Ä¢ Finance / Procurement (follow-up of financial transactions, budget management, planning & reporting, drafting tender specifications);
-‚Ä¢ Facility Management (business trips & events management / environment, health & safety / building & office supply management / physical security & document management).
+ESMA is organising a selection procedure for the post of Administrative Assistant to constitute a reserve list of suitable candidates for potential staffing needs linked with current and future workstreams. We are looking for candidates with different profiles / backgrounds, and especially in: ‚ Personal assistance or secretarial support (meetings organisation, support to the manager and team/unit);
+‚ HR (recruitment / learning & development / administration);
+‚ Communications (external/internal communications / website management / media & social media monitoring and reporting / visual content creation / experience with Canva, knowledge of Adobe Photoshop, Illustrator and InDesign is an advantage);
+‚ Finance / Procurement (follow-up of financial transactions, budget management, planning & reporting, drafting tender specifications);
+‚ Facility Management (business trips & events management / environment, health & safety / building & office supply management / physical security & document management).
 
 Main duties:
 You may be assigned, depending on the needs of the service, to one or several tasks:
-‚Ä¢ Organising and coordinating of meetings, events, interviews;
-‚Ä¢ Managing calendars/agendas, handling follow-up of information flows and deadlines; taking minutes and managing office supplies;
-‚Ä¢ Drafting correspondence, preparing relevant reports, statistics, databases, notes, presentations and proof-reading of documents;
-‚Ä¢ Maintaining and updating ESMA‚Äôs intranet and/or website and/or databases and managing team records;
-‚Ä¢ Financial administration and budget monitoring (planning, follow-up and reporting): managing financial transactions ideally using a financial / accounting system;
-‚Ä¢ Drafting and/or coordinating the preparation of documents, vacancy notices, internal documents, tender specifications in cooperation with technical experts;
-‚Ä¢ Knowledge (or capacity to learn) the relevant rules and regulations (ideally the EU Staff Regulations, EU Financial Regulation, Mission rules etc.);
-‚Ä¢ Communication with internal and external stakeholders (in written and verbally); ‚Ä¢ Creating infographics, videos and other visual assets;
-‚Ä¢ Excellent skills in Office suite and MS Teams;
-‚Ä¢ Performing any other secretarial and administrative tasks, as deemed necessary;
+‚ Organising and coordinating of meetings, events, interviews;
+‚ Managing calendars/agendas, handling follow-up of information flows and deadlines; taking minutes and managing office supplies;
+‚ Drafting correspondence, preparing relevant reports, statistics, databases, notes, presentations and proof-reading of documents;
+‚ Maintaining and updating ESMA‚s intranet and/or website and/or databases and managing team records;
+‚ Financial administration and budget monitoring (planning, follow-up and reporting): managing financial transactions ideally using a financial / accounting system;
+‚ Drafting and/or coordinating the preparation of documents, vacancy notices, internal documents, tender specifications in cooperation with technical experts;
+‚ Knowledge (or capacity to learn) the relevant rules and regulations (ideally the EU Staff Regulations, EU Financial Regulation, Mission rules etc.);
+‚ Communication with internal and external stakeholders (in written and verbally); ‚ Creating infographics, videos and other visual assets;
+‚ Excellent skills in Office suite and MS Teams;
+‚ Performing any other secretarial and administrative tasks, as deemed necessary;
 
 2) Title: Administrative Assistant
 
 About the job
 Administrative Assistant in Sourcing and Trading
 
-Our story goes back more than 150 years, to the chilly southern coast of Scandinavia. From our early success in Sweden and Denmark, we‚Äôve grown into the world‚Äôs leading specialist producer of plant-based oils, employing more than 4,000 people all across the globe.
+Our story goes back more than 150 years, to the chilly southern coast of Scandinavia. From our early success in Sweden and Denmark, we‚ve grown into the world‚s leading specialist producer of plant-based oils, employing more than 4,000 people all across the globe.
 
-We work with our customers to make the products you love even better. The oils we produce go into making your chocolate extra-creamy or putting the crunch into your croissant. And it‚Äôs not just food ‚Äî we work across industries to make products that are higher quality, healthier and better for the planet.
+We work with our customers to make the products you love even better. The oils we produce go into making your chocolate extra-creamy or putting the crunch into your croissant. And it‚s not just food ‚Äî we work across industries to make products that are higher quality, healthier and better for the planet.
 
 Everything we do is about Making Better Happen‚Ñ¢.
 
 AAK Denmark:
 
-Located in the Port of Aarhus, AAK Denmark is the oldest site in AAK founded in 1871 and the world‚Äôs largest producer of shea oil and fats. These are mostly used in the chocolate and confectionery industries, but shea oil is also used in cosmetics. Our highly automated production process runs 24/7 ‚Äì 365 days a year, supervised by expert operators from our central control room. Our oil and fats laboratory is responsible for the development of AAK‚Äôs global process technologies, which contribute to cleaner and more efficient manufacturing, and more sustainable end products. Our product development team manages development activity across the group, in close collaboration with the Customer Innovation Center. Our site‚Äôs large IT team also works across the globe.
+Located in the Port of Aarhus, AAK Denmark is the oldest site in AAK founded in 1871 and the world‚s largest producer of shea oil and fats. These are mostly used in the chocolate and confectionery industries, but shea oil is also used in cosmetics. Our highly automated production process runs 24/7 ‚Äì 365 days a year, supervised by expert operators from our central control room. Our oil and fats laboratory is responsible for the development of AAK‚s global process technologies, which contribute to cleaner and more efficient manufacturing, and more sustainable end products. Our product development team manages development activity across the group, in close collaboration with the Customer Innovation Center. Our site‚s large IT team also works across the globe.
 
 About the role:
 
@@ -1058,39 +1059,39 @@ We are seeking a reliable, organized, proactive and computer-savvy Administrativ
 Key Responsibilities:
 
 
- ‚Ä¢‚ÄÇ‚ÄÇ‚ÄÇ‚ÄÇ‚ÄÇAssist with daily administrative tasks and office operations
- ‚Ä¢‚ÄÇ‚ÄÇ‚ÄÇ‚ÄÇ‚ÄÇManage and organize client files and documents
- ‚Ä¢‚ÄÇ‚ÄÇ‚ÄÇ‚ÄÇ‚ÄÇUtilize QuickBooks for financial data entry and management
- ‚Ä¢‚ÄÇ‚ÄÇ‚ÄÇ‚ÄÇ‚ÄÇCreate and maintain spreadsheets using Excel
- ‚Ä¢‚ÄÇ‚ÄÇ‚ÄÇ‚ÄÇ‚ÄÇProvide exceptional customer service to clients, both in-person and over the phone
- ‚Ä¢‚ÄÇ‚ÄÇ‚ÄÇ‚ÄÇ‚ÄÇSchedule appointments and manage calendars
- ‚Ä¢‚ÄÇ‚ÄÇ‚ÄÇ‚ÄÇ‚ÄÇSupport tax preparation processes and assist with client inquiries
+ Assist with daily administrative tasks and office operations
+ Manage and organize client files and documents
+ Utilize QuickBooks for financial data entry and management
+ Create and maintain spreadsheets using Excel
+ Provide exceptional customer service to clients, both in-person and over the phone
+ Schedule appointments and manage calendars
+ Support tax preparation processes and assist with client inquiries
 
 
 Qualifications:
 
 
- ‚Ä¢‚ÄÇ‚ÄÇ‚ÄÇ‚ÄÇ‚ÄÇKnowledge in QuickBooks and Excel
- ‚Ä¢‚ÄÇ‚ÄÇ‚ÄÇ‚ÄÇ‚ÄÇStrong computer skills and familiarity with office software
- ‚Ä¢‚ÄÇ‚ÄÇ‚ÄÇ‚ÄÇ‚ÄÇExcellent organizational and multitasking abilities
- ‚Ä¢‚ÄÇ‚ÄÇ‚ÄÇ‚ÄÇ‚ÄÇStrong attention to detail and accuracy
- ‚Ä¢‚ÄÇ‚ÄÇ‚ÄÇ‚ÄÇ‚ÄÇEffective communication and interpersonal skills
- ‚Ä¢‚ÄÇ‚ÄÇ‚ÄÇ‚ÄÇ‚ÄÇPrevious experience in a tax office is a plus, but not required
+ Knowledge in QuickBooks and Excel
+ Strong computer skills and familiarity with office software
+ Excellent organizational and multitasking abilities
+ Strong attention to detail and accuracy
+ Effective communication and interpersonal skills
+ Previous experience in a tax office is a plus, but not required
 
 
 Hours:
 
 
- ‚Ä¢‚ÄÇ‚ÄÇ‚ÄÇ‚ÄÇ‚ÄÇFull-time during tax season (January through April)
- ‚Ä¢‚ÄÇ‚ÄÇ‚ÄÇ‚ÄÇ‚ÄÇReduced hours from May through December
+ Full-time during tax season (January through April)
+ Reduced hours from May through December
 
 
 Benefits:
 
 
- ‚Ä¢‚ÄÇ‚ÄÇ‚ÄÇ‚ÄÇ‚ÄÇCompetitive hourly wage
- ‚Ä¢‚ÄÇ‚ÄÇ‚ÄÇ‚ÄÇ‚ÄÇFriendly and supportive work environment
- ‚Ä¢‚ÄÇ‚ÄÇ‚ÄÇ‚ÄÇ‚ÄÇOpportunity to gain valuable experience in the tax preparation industry
+ Competitive hourly wage
+ Friendly and supportive work environment
+ Opportunity to gain valuable experience in the tax preparation industry
 
 4) Title: Administrative Assistant
 
