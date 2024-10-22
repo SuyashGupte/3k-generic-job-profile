@@ -1,7 +1,6 @@
 # Job Descriptions
 
-## Human Resources Assitant
-
+## Human Resources
 Internal Sources
 
 1) Title: HUMAN RESOURCES ASSISTANT
